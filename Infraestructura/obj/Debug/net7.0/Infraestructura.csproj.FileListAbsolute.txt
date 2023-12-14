@@ -1,0 +1,12 @@
+D:\_000\Infraestructura\bin\Debug\net7.0\Infraestructura.deps.json
+D:\_000\Infraestructura\bin\Debug\net7.0\Infraestructura.dll
+D:\_000\Infraestructura\bin\Debug\net7.0\Infraestructura.pdb
+D:\_000\Infraestructura\obj\Debug\net7.0\Infraestructura.csproj.AssemblyReference.cache
+D:\_000\Infraestructura\obj\Debug\net7.0\Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+D:\_000\Infraestructura\obj\Debug\net7.0\Infraestructura.AssemblyInfoInputs.cache
+D:\_000\Infraestructura\obj\Debug\net7.0\Infraestructura.AssemblyInfo.cs
+D:\_000\Infraestructura\obj\Debug\net7.0\Infraestructura.csproj.CoreCompileInputs.cache
+D:\_000\Infraestructura\obj\Debug\net7.0\Infraestructura.dll
+D:\_000\Infraestructura\obj\Debug\net7.0\refint\Infraestructura.dll
+D:\_000\Infraestructura\obj\Debug\net7.0\Infraestructura.pdb
+D:\_000\Infraestructura\obj\Debug\net7.0\ref\Infraestructura.dll
